@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1778821283 source:d:\oop\b6_lab4\main.cpp
+	"CVector.h"
+
+1778821302 d:\oop\b6_lab4\include\cvector.h
+	<iostream>
+	<bits/stdc++.h>
+
+1778830592 source:d:\oop\b6_lab4\src\cvector.cpp
+	"CVector.h"
+
