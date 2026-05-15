@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1778829215 source:d:\oop\b3_lab4\src\ctime.cpp
+	"CTime.h"
+
+1778730958 d:\oop\b3_lab4\include\ctime.h
+	<bits/stdc++.h>
+
+1778731071 source:d:\oop\b3_lab4\main.cpp
+	"CTime.h"
+
