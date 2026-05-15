@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1778806705 source:d:\oop\b4_lab4\main.cpp
+	"CDate.h"
+	<iomanip>
+
+1778806633 d:\oop\b4_lab4\include\cdate.h
+	<bits/stdc++.h>
+
+1778829945 source:d:\oop\b4_lab4\src\cdate.cpp
+	"CDate.h"
+
