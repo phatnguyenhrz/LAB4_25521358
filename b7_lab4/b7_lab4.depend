@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1778827489 source:d:\oop\b7_lab4\main.cpp
+	"CMatrix.h"
+
+1778826958 d:\oop\b7_lab4\include\cmatrix.h
+	<bits/stdc++.h>
+	"CVector.h"
+
+1778861166 d:\oop\b7_lab4\include\cvector.h
+	<bits/stdc++.h>
+
+1778861166 source:d:\oop\b7_lab4\src\cmatrix.cpp
+	"CMatrix.h"
+
+1778861166 source:d:\oop\b7_lab4\src\cvector.cpp
+	"CVector.h"
+
