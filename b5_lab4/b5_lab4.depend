@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1778812725 source:d:\oop\b5_lab4\main.cpp
+	"CDaThuc.h"
+
+1778812492 d:\oop\b5_lab4\include\cdathuc.h
+	<bits/stdc++.h>
+	<iostream>
+
+1778830247 source:d:\oop\b5_lab4\src\cdathuc.cpp
+	"CDaThuc.h"
+
